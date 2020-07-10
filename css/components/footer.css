@@ -1,0 +1,8 @@
+.footer {
+  background-color: orange;
+  width: 100vw;
+  text-align: center;
+  height: 200px;
+  margin: 50px auto;
+  align-self: center;
+}

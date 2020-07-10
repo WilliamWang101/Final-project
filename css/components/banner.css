@@ -1,0 +1,20 @@
+
+
+.banner {
+  background-image: url("../../images/Devil-May-Cry-5.jpg");
+  background-size: cover;
+  background-position: center;
+  padding: 200px 0;
+  text-align: center;
+  height: 200px;
+}
+
+.banner p {
+  font-size: 5px;
+  margin-bottom: 10px;
+  margin-top: 10px;
+  color: white;
+}
+
+.banner h1{
+  color: white;}
